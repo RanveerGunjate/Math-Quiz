@@ -1,0 +1,27 @@
+body
+{
+	
+    background-image:url("1.jpg") ;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(23, 158, 158);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#login_button{
+    background-color: burlywood;
+    color: blue;
+    border-color:red ;
+    border-radius: 30cm;
+    border-width: 0.2cm;
+}
